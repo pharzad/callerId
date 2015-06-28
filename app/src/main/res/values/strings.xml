@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Caller Id</string>
+    <string name="USA">USA</string>
+    <string name="others">Others</string>
+    <string name="groupHeader">Please Choose Your Country</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
